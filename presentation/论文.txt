@@ -1,24 +1,24 @@
-Ŀǰ�ĺ�ѡ���ģ�
+﻿目前的候选论文：
     https://dl.acm.org/citation.cfm?id=2858180 
 
-    ����CHI��16�꣬12ҳ����youtubeС��Ƶ����������СֽƬ��Ӱ���ָߴ������ͶӰ��ʶ�����岢��ɫ����Ԥ���ռ��ϵ���ƣ�
+    来自CHI，16年，12页，有youtube小视频，好像是用小纸片剪影和乐高搭建场景，投影仪识别物体并上色，来预览空间上的设计？
     https://dl.acm.org/citation.cfm?id=3172977 
 
-    ����IUI��18�꣬11ҳ��������һ�����ڲ���������£������ͺͻ�������������������裬�ŵ����Ķ����ߣ�ȱ�����Ķ����߻᲻����������ظ���
+    来自IUI，18年，11页，介绍了一种用于不发声情况下，用嘴型和机器交流的脸部佩戴外设，优点是阅读量高，缺点是阅读量高会不会和其他组重复？
 
-������������Դ��
-TOCHI��
+整理的资料来源：
+TOCHI：
     https://dl.acm.org/citation.cfm?id=J756&picked=prox 
 
-CHI��
+CHI：
     https://chi2016.acm.org/wp/paper-proceedings/ 
 
     http://st.sigchi.org/publications/toc/chi-2017.html 
 
-IUI��
+IUI：
     https://dl.acm.org/event.cfm?id=RE306&tab=pubs 
 
-Human Factors��
+Human Factors：
     http://journals.sagepub.com/home/hfs 
 
-�ȵȡ���
+等等……
