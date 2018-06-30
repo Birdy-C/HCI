@@ -1,0 +1,50 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+        
+<link rel="stylesheet" href="css/topcoat-desktop-dark.min.css"/>
+<link  id="hostStyle" rel="stylesheet" href="css/styles.css"/>
+
+<title></title>
+</head>
+
+<body class="hostElt">
+
+    <div id="content">
+
+        <div class="xy-h-box">
+
+            <!--create new layer with the foreground color-->
+            <div id="CreateColor" style="background-color:#FFFFFF;">Color</div>
+            <div id="xy-point">>></div>
+            <button id="btn_create" class="topcoat-button--large hostFontSize">Create</button>
+
+        </div>
+        <div>
+            <!--the main show scene-->
+            <div class="xy-h-box">
+                <canvas id="maincanvas" width="200" height="200"></canvas>
+            </div>
+            <div class="xy-h-box">
+                <div id="ballcolor" style="background-color:#FFFFFF;">Color</div>
+                <div id="xy-point">>></div>
+                <div id="xy-pen">n</div>
+            </div>
+        </div>
+    </div>
+
+
+     <!--禁止右键弹出窗口-->
+    <script language="Javascript">
+        document.oncontextmenu = function () { return false; }
+    </script>
+    <script src="js/libs/CSInterface.js"></script>
+    <script src="js/libs/jquery-2.0.2.min.js"></script>
+
+    <script src="js/themeManager.js"></script>
+    <script src="js/main.js"></script>
+
+        
+</body>
+</html>
